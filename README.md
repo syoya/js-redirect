@@ -1,4 +1,4 @@
-# js-sp-redirect
+# js-sp-redirect [![CircleCI](https://circleci.com/gh/syoya/js-sp-redirection/tree/master.svg?style=svg)](https://circleci.com/gh/syoya/js-sp-redirection/tree/master)
 
 Simple.
 
